@@ -1,0 +1,6 @@
+{
+  "name": "Mathematics Part 2 – AI Learning Platform",
+  "description": "Class 8 Mathematics AI Learning Platform with bilingual Urdu & English explanations, Objective and Long questions, AI Math Teacher, AI Math Solver, Notebook Image Scanner, Tests, Calculator, Formula Library, and Geometry Tools.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
